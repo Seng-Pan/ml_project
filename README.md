@@ -1,4 +1,9 @@
 #  Food Assistance Chatbot
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Model-LLaVA--Mistral-yellow" alt="LLaVA">
+</div>
 
 ## Overview
 An AI-powered chatbot that assists with:
